@@ -1,27 +1,34 @@
-# Weather App - Python Internship Project
+# 🌦 Weather App – Python Internship Project
 
-**Author:** Muhammad Sudais  
-**Internship:** Coding Samurai – Python Programming  
-
----
-
-## Project Overview
-This is a Python Weather App built as part of the Coding Samurai Internship.  
-It fetches **live weather data** from the OpenWeather API for any city entered by the user and displays it in a clean, easy-to-read format.  
-
-The project also allows the user to **save the weather report** as a text file for later reference.  
+**Internship Organization:** Coding Samurai  
+**Intern Name:** Muhammad Sudais  
+**Domain:** Python Programming  
 
 ---
 
-## Features
-- Fetch live weather data from OpenWeather API  
-- Display city, weather condition, temperature, humidity, and wind speed  
-- Save weather report as a text file automatically  
-- Handles invalid city input gracefully  
+## 📌 Project Overview
+This Weather App is developed as part of the **Coding Samurai Python Internship**.  
+It fetches **real-time weather data** from the [OpenWeather API](https://openweathermap.org/api) and displays it in a neat format.  
+
+Along with showing live weather details, the app also provides an option to **save the report automatically as a text file**, making it practical and useful.
 
 ---
 
-## How to Use
-1. Run the Python file:
-```bash
-python Weather.py
+## 🚀 Features
+✅ Get live weather by entering any city name  
+✅ Displays:
+- City Name  
+- Weather Condition  
+- Temperature (°C)  
+- Humidity (%)  
+- Wind Speed (m/s)  
+✅ Automatically saves weather report as `<City>_weather_report.txt`  
+✅ Handles errors (invalid city input) gracefully  
+
+---
+
+## ▶️ How to Run
+1. Clone this repo and go to the `Weather_App` folder:
+   ```bash
+   git clone https://github.com/sudais-ai/CODINGSAMURAI.git
+   cd CODINGSAMURAI/Weather_App
