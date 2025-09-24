@@ -1,5 +1,4 @@
 📖 Quotes Scraper Project
-
 🔹 About
 
 A simple Python project that scrapes random quotes from Quotes to Scrape.
