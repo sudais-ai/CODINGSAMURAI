@@ -1,0 +1,8 @@
+
+=== WEATHER UPDATE ===
+Location    : Karachi
+Weather     : Smoke
+Temperature : 27.9 °C
+Humidity    : 74%
+Wind        : 5.14 m/s
+======================
