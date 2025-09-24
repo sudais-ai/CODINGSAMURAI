@@ -45,9 +45,8 @@ Quote #1
 "The world as we have created it is a process of our thinking."
 --- Albert Einstein
 -----------------------------------
+🔹 Author  
+👤 [Muhammad Sudais](https://github.com/sudais-ai)  
 
-🔹 Author
-
-👤 Muhammad Sudais
-
-📂 Project Repository
+📂 Project Repository  
+[CODINGSAMURAI](https://github.com/sudais-ai/CODINGSAMURAI)
