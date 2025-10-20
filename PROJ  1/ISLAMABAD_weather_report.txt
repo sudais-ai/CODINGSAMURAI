@@ -1,0 +1,8 @@
+
+=== WEATHER UPDATE ===
+Location    : Islamabad
+Weather     : Clear Sky
+Temperature : 26.25 °C
+Humidity    : 41%
+Wind        : 3.03 m/s
+======================
