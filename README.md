@@ -128,6 +128,7 @@ CODE-SAMURAI/
 💬 Summary
 Each project under CodeSamurai reflects clean code principles, real-world problem solving, and practical Python skills — designed for developers who want to master APIs, automation, and web frameworks.
 
+
 ## 👨‍💻 Developer  
 **sudais-ai**  
 
@@ -135,5 +136,3 @@ Each project under CodeSamurai reflects clean code principles, real-world proble
 🔗 [💼 LinkedIn](https://www.linkedin.com/in/sudais-ai/)
 
 
-### ✅ Ready-to-Upload Features:
-- Works pe
