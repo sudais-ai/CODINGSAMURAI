@@ -112,8 +112,9 @@ Change output formats
 
 Add additional data processing
 
-👨‍💻 Developer
-sudais-ai
 
-🔗 🌐 GitHub Profile
-🔗 💼 LinkedIn
+## 👨‍💻 Developer  
+**sudais-ai**  
+
+🔗 [🌐 GitHub Profile](https://github.com/sudais-ai)  
+🔗 [💼 LinkedIn](https://www.linkedin.com/in/sudais-ai/)
