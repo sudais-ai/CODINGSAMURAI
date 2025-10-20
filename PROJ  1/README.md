@@ -129,8 +129,8 @@ API Error	Verify internet connection & API key
 File Save Issue	Check directory permissions
 Network Problem	Ensure stable internet connection
 
-👨‍💻 Developer
-sudais-ai
-GitHub Profile • LinkedIn
+## 👨‍💻 Developer
+**sudais-ai**  
+[🌐 GitHub Profile](https://github.com/sudais-ai) • [💼 LinkedIn](https://www.linkedin.com/in/sudais-ai)
 
 
